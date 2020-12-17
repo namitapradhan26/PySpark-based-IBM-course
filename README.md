@@ -1,5 +1,5 @@
 # PySpark-based-IBM-course
-The Advanced Machine Learning and Signal Processing course by IBM used PySpark for the assignments. This repository consists of the 4 assignments from that course.
+The Coursera course, Advanced Machine Learning and Signal Processing by IBM used PySpark ML for the assignments. This repository consists of the 4 assignments from that course.
 
 Assignment 1 - ETL
 
